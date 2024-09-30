@@ -25,7 +25,7 @@ To set up and run this project locally, follow the steps below:
 
 1. **Clone the repository**:
    ```bash
-   git clone 
+   git clone https://github.com/realBagher/coding_challenges/tree/main/two_sum
    cd two-sum
    ```
 
